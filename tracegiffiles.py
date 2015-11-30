@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Use the standard find method to look for GIF files.
+# Using the standard find method to look for GIF files.
 import sys, find
 
 if len(sys.argv) > 1:
